@@ -23,4 +23,6 @@ Welcome to **SpiceSpirit**, your destination for curated cocktails, refreshing m
 - **Font Awesome** – Icons for social media  
 - **Responsive Design** – Mobile-first layout  
 
---
+---
+
+
