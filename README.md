@@ -1,5 +1,7 @@
 # SpiceSpirit - Premium Cocktail & Mocktail Experience
 
+![SpiceSpirit Demo](https://your-image-host.com/spicespirit-demo.png)
+
 Welcome to **SpiceSpirit**, your destination for curated cocktails, refreshing mocktails, and an ambiance crafted for connoisseurs. This is a beautifully styled, responsive website built with React, Tailwind CSS, and modern animation libraries like GSAP.
 
 ---
@@ -24,5 +26,4 @@ Welcome to **SpiceSpirit**, your destination for curated cocktails, refreshing m
 - **Responsive Design** – Mobile-first layout  
 
 ---
-
 
