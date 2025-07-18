@@ -30,17 +30,18 @@ const About = () => {
 		<div className="content">
 		 <div className="md:col-span-8">
 			<p className="badge">Best Cocktails</p>
-			<h2>
-			 Where every detail matters <span className="text-white">-</span>
-				from muddle to garnish
-			</h2>
-		 </div>
-		 
-		 <div className="sub-content">
-			<p>
-			 Every cocktail we serve is a reflection of our obsession with detail — from the first muddle to the final garnish. That care is what turns a simple drink into something truly memorable.
-			</p>
+				<h2>
+  From muddle to magic <span className="text-white">•</span> every pour tells a story
+</h2>
+			</div>
 			
+			<div className="sub-content">
+				 <p>
+    At  <strong> Spice🍸Spirit </strong>, each cocktail is crafted with intention —
+    blending handpicked ingredients, Indian-inspired flavors, and timeless technique.
+    Because we believe it's the little details that turn a good drink into a memorable experience.
+  </p>
+				
 			<div>
 			 <p className="md:text-3xl text-xl font-bold">
 				<span>4.5</span>/5

@@ -25,7 +25,7 @@ const Contact = () => {
 		.to('#f-right-leaf', {
 		 y: '-50', duration: 1, ease: 'power1.inOut'
 	 }).to('#f-left-leaf', {
-		 y: '-50', duration: 1, ease: 'power1.inOut'
+		 y: '-50', duration: 5, ease: 'power1.inOut'
 	 }, '<')
 	})
  
@@ -36,18 +36,27 @@ const Contact = () => {
 	 
 	 <div className="content">
 		<h2>Where to Find Us</h2>
-		
-		<div>
-		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
-		</div>
-		
-		<div>
-		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
-		</div>
-		
+
+<div>
+  <h3>Visit Our Bar</h3>
+  <p>Spice 🍸 Spirit</p><br />
+<p class="text-3xl">
+  <span class="text-white">Koramangala</span> |
+  <span class="text-green-400">Indiranagar</span>  |
+  <span class="text-white">HSR Layout</span>  |
+  <span class="text-green-400">Jayanagar</span> | 
+  <span class="text-white">Malleshwaram</span>  |
+  <span class="text-green-400">Church Street</span>
+</p>
+
+</div>
+
+<div>
+  <h3>Contact Us</h3>
+  <p>+91 98765 432XX</p>
+  <p class="text-green-200">hello@spiritcocktails.in</p>
+</div>
+
 		<div>
 		 <h3>Open Every Day</h3>
 		 {openingHours.map((time) => (
@@ -71,6 +80,8 @@ const Contact = () => {
 			 >
 				<img src={social.icon} />
 			 </a>
+
+			 
 			))}
 		 </div>
 		</div>
