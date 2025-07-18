@@ -1,12 +1,26 @@
-# React + Vite
+# SpiceSpirit - Premium Cocktail & Mocktail Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **SpiceSpirit**, your destination for curated cocktails, refreshing mocktails, and an ambiance crafted for connoisseurs. This is a beautifully styled, responsive website built with React, Tailwind CSS, and modern animation libraries like GSAP.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- Stylish Landing Page with Scroll Animations  
+- Interactive Cocktail & Mocktail Menus  
+- Multi-Outlet Store Locator (Bangalore-specific)  
+- Contact Info with Operating Hours  
+- Social Links with Font Awesome Icons  
+- Smooth Animations using GSAP  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Tech Stack
+
+- **React.js** – UI components  
+- **Tailwind CSS** – Utility-first styling  
+- **GSAP** – Scroll-based animations and text effects  
+- **Font Awesome** – Icons for social media  
+- **Responsive Design** – Mobile-first layout  
+
+--
